@@ -133,21 +133,6 @@
         "volume": "",
         "year": "2022"
     },
-    "Beck2016Visual": {
-        "abstract": "Bibiographic data such as collections of scientific articles and citation networks have been studied extensively in information visualization and visual analytics research. Powerful systems have been built to support various types of bibliographic analysis, but they require some training and cannot be used to disseminate the insights gained. In contrast, we focused on developing a more accessible visual analytics system, called SurVis, that is ready to disseminate a carefully surveyed literature collection. The authors of a survey may use our Web-based system to structure and analyze their literature database. Later, readers of the survey can obtain an overview, quickly retrieve specific publications, and reproduce or extend the original bibliographic analysis. Our system employs a set of selectors that enable users to filter and browse the literature collection as well as to control interactive visualizations. The versatile selector concept includes selectors for textual search, filtering by keywords and meta-information, selection and clustering of similar publications, and following citation links. Agreement to the selector is represented by word-sized sparkline visualizations seamlessly integrated into the user interface. Based on an analysis of the analytical reasoning process, we derived requirements for the system. We developed the system in a formative way involving other researchers writing literature surveys. A questionnaire study with 14 visual analytics experts confirms that SurVis meets the initially formulated requirements.",
-        "author": "Beck, Fabian and Koch, Sebastian and Weiskopf, Daniel",
-        "doi": "10.1109/TVCG.2015.2467757",
-        "journal": "IEEE Transactions on Visualization and Computer Graphics",
-        "keywords": "type:system, visual_analytics, sparklines, information_retrieval, clustering, literature_browser",
-        "number": "01",
-        "publisher": "IEEE",
-        "series": "TVCG",
-        "title": "Visual Analysis and Dissemination of Scientific Literature Collections with {SurVis}",
-        "type": "article",
-        "url": "http://www.visus.uni-stuttgart.de/uploads/tx_vispublications/vast15-survis.pdf",
-        "volume": "22",
-        "year": "2016"
-    },
     "GIBBS2022102717": {
         "abstract": "In the current consumer market, Virtual reality experiences are predominantly generated through visual and auditory feedback. Haptics are not yet well established, but are increasingly introduced to enhance the user\u2019s sense of \u2018reality\u2019. With haptic (vibrotactile) feedback now part of the built-in mechanism of VR consumer devices, there is an urgent need to understand how different modalities work together to improve the user experience. This paper reports an experiment that explores the contributions made to participants\u2019 sense of presence by haptic and visual feedback in a virtual environment. Participants experienced a virtual ball bouncing on a virtual stick resting across their avatar hands. We found that presence was enhanced when they could both see and feel the ball\u2019s action; with a strong suggestion that haptic feedback alone gave rise to a greater sense of presence than visual alone. Similarly, whilst visual or bimodal feedback enhanced participants\u2019 ability to locate where the ball bounced on the stick, our results suggest that the action itself was more readily discerned haptically than visually.",
         "author": "Janet K. Gibbs and Marco Gillies and Xueni Pan",
