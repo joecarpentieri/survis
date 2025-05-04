@@ -73,17 +73,17 @@
         "volume": "54",
         "year": "2022"
     },
-    "5444807": {
-        "author": "Yuan, Ye and Steed, Anthony",
-        "booktitle": "2010 IEEE Virtual Reality Conference (VR)",
-        "doi": "10.1109/VR.2010.5444807",
-        "keywords": "Rubber;Virtual reality;Galvanizing;Skin;Neuroscience;Testing;Stress;Protocols;Computer science;Educational institutions;Rubber-hand illusion;immersive virtual reality;virtual body;galvanic skin response;body image;body schema",
-        "number": "",
-        "pages": "95-102",
-        "title": "Is the rubber hand illusion induced by immersive virtual reality?",
-        "type": "inproceedings",
-        "volume": "",
-        "year": "2010"
+    "10268995": {
+        "author": "Zhang, Hongkun and Zhou, Kehong and Shi, Ke and Wang, Yunhai and Song, Aiguo and Zhu, Lifeng",
+        "doi": "10.1109/TVCG.2023.3320249",
+        "journal": "IEEE Transactions on Visualization and Computer Graphics",
+        "keywords": "Force;Force feedback;Springs;Shape;Actuators;Virtual reality;Damping;Passive haptic;wearable display;virtual reality",
+        "number": "11",
+        "pages": "4460-4471",
+        "title": "SmartSpring: A Low-Cost Wearable Haptic VR Display with Controllable Passive Feedback",
+        "type": "article",
+        "volume": "29",
+        "year": "2023"
     },
     "8446153": {
         "author": "Gall, Dominik and Latoschik, Marc Erich",
